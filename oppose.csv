@@ -1,0 +1,10 @@
+,Feature,Favoring,Against_Repub_Count,For_Repub_Count,Difference
+1,party_D,Against,602.0,454.0,148.0
+2,freq_voter party_D,Against,476.0,344.0,132.0
+3,voted_03_05_2013 party_D,Against,353.0,221.0,132.0
+4,voted_06_07_2016 party_D,Against,519.0,394.0,125.0
+5,voted_05_21_2013 party_D,Against,346.0,233.0,113.0
+6,education_some_college,Against,209.0,131.0,78.0
+7,party_D education_some_college,Against,209.0,131.0,78.0
+8,voted_03_05_2013 education_bachelors,Against,170.0,100.0,70.0
+9,freq_voter education_some_college,Against,162.0,102.0,60.0

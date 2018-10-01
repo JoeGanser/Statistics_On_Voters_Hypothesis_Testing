@@ -1,0 +1,483 @@
+,Feature,Test,result,Count
+0,age,"age
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: -3.756602425322815",REJECT NULL,1
+1,education_HS_drop_out,education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+2,education_HS_drop_out education_bachelors,education_HS_drop_out education_bachelors Fail to reject Null Hypothesis,PASS,0
+3,education_HS_drop_out education_doctorate,education_HS_drop_out education_doctorate Fail to reject Null Hypothesis,PASS,0
+4,education_HS_drop_out education_high_school,education_HS_drop_out education_high_school Fail to reject Null Hypothesis,PASS,0
+5,education_HS_drop_out education_masters,education_HS_drop_out education_masters Fail to reject Null Hypothesis,PASS,0
+6,education_HS_drop_out education_some_college,education_HS_drop_out education_some_college Fail to reject Null Hypothesis,PASS,0
+7,education_HS_drop_out education_trade_school,education_HS_drop_out education_trade_school Fail to reject Null Hypothesis,PASS,0
+8,education_HS_drop_out ethnic_asian,education_HS_drop_out ethnic_asian Fail to reject Null Hypothesis,PASS,0
+9,education_HS_drop_out ethnic_black,education_HS_drop_out ethnic_black Fail to reject Null Hypothesis,PASS,0
+10,education_HS_drop_out ethnic_hispanic,education_HS_drop_out ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+11,education_HS_drop_out ethnic_indian,education_HS_drop_out ethnic_indian Fail to reject Null Hypothesis,PASS,0
+12,education_HS_drop_out ethnic_jewish,education_HS_drop_out ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+13,education_HS_drop_out ethnic_white,education_HS_drop_out ethnic_white Fail to reject Null Hypothesis,PASS,0
+14,education_bachelors,education_bachelors Fail to reject Null Hypothesis,PASS,0
+15,education_bachelors education_doctorate,education_bachelors education_doctorate Fail to reject Null Hypothesis,PASS,0
+16,education_bachelors education_high_school,education_bachelors education_high_school Fail to reject Null Hypothesis,PASS,0
+17,education_bachelors education_masters,education_bachelors education_masters Fail to reject Null Hypothesis,PASS,0
+18,education_bachelors education_some_college,education_bachelors education_some_college Fail to reject Null Hypothesis,PASS,0
+19,education_bachelors education_trade_school,education_bachelors education_trade_school Fail to reject Null Hypothesis,PASS,0
+20,education_bachelors ethnic_asian,education_bachelors ethnic_asian Fail to reject Null Hypothesis,PASS,0
+21,education_bachelors ethnic_black,education_bachelors ethnic_black Fail to reject Null Hypothesis,PASS,0
+22,education_bachelors ethnic_hispanic,education_bachelors ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+23,education_bachelors ethnic_indian,education_bachelors ethnic_indian Fail to reject Null Hypothesis,PASS,0
+24,education_bachelors ethnic_jewish,education_bachelors ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+25,education_bachelors ethnic_white,education_bachelors ethnic_white Fail to reject Null Hypothesis,PASS,0
+26,education_doctorate,"education_doctorate
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: 4.157468402721064",REJECT NULL,1
+27,education_doctorate education_high_school,education_doctorate education_high_school Fail to reject Null Hypothesis,PASS,0
+28,education_doctorate education_masters,education_doctorate education_masters Fail to reject Null Hypothesis,PASS,0
+29,education_doctorate education_some_college,education_doctorate education_some_college Fail to reject Null Hypothesis,PASS,0
+30,education_doctorate education_trade_school,education_doctorate education_trade_school Fail to reject Null Hypothesis,PASS,0
+31,education_doctorate ethnic_asian,education_doctorate ethnic_asian Fail to reject Null Hypothesis,PASS,0
+32,education_doctorate ethnic_black,education_doctorate ethnic_black Fail to reject Null Hypothesis,PASS,0
+33,education_doctorate ethnic_hispanic,education_doctorate ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+34,education_doctorate ethnic_indian,education_doctorate ethnic_indian Fail to reject Null Hypothesis,PASS,0
+35,education_doctorate ethnic_jewish,education_doctorate ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+36,education_doctorate ethnic_white,education_doctorate ethnic_white Fail to reject Null Hypothesis,PASS,0
+37,education_high_school,education_high_school Fail to reject Null Hypothesis,PASS,0
+38,education_high_school education_masters,education_high_school education_masters Fail to reject Null Hypothesis,PASS,0
+39,education_high_school education_some_college,education_high_school education_some_college Fail to reject Null Hypothesis,PASS,0
+40,education_high_school education_trade_school,education_high_school education_trade_school Fail to reject Null Hypothesis,PASS,0
+41,education_high_school ethnic_asian,education_high_school ethnic_asian Fail to reject Null Hypothesis,PASS,0
+42,education_high_school ethnic_black,education_high_school ethnic_black Fail to reject Null Hypothesis,PASS,0
+43,education_high_school ethnic_hispanic,education_high_school ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+44,education_high_school ethnic_indian,education_high_school ethnic_indian Fail to reject Null Hypothesis,PASS,0
+45,education_high_school ethnic_jewish,education_high_school ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+46,education_high_school ethnic_white,education_high_school ethnic_white Fail to reject Null Hypothesis,PASS,0
+47,education_masters,education_masters Fail to reject Null Hypothesis,PASS,0
+48,education_masters education_some_college,education_masters education_some_college Fail to reject Null Hypothesis,PASS,0
+49,education_masters education_trade_school,education_masters education_trade_school Fail to reject Null Hypothesis,PASS,0
+50,education_masters ethnic_asian,education_masters ethnic_asian Fail to reject Null Hypothesis,PASS,0
+51,education_masters ethnic_black,education_masters ethnic_black Fail to reject Null Hypothesis,PASS,0
+52,education_masters ethnic_hispanic,education_masters ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+53,education_masters ethnic_indian,education_masters ethnic_indian Fail to reject Null Hypothesis,PASS,0
+54,education_masters ethnic_jewish,education_masters ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+55,education_masters ethnic_white,education_masters ethnic_white Fail to reject Null Hypothesis,PASS,0
+56,education_some_college,"education_some_college
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: -4.241508383192772",REJECT NULL,1
+57,education_some_college education_trade_school,education_some_college education_trade_school Fail to reject Null Hypothesis,PASS,0
+58,education_some_college ethnic_asian,education_some_college ethnic_asian Fail to reject Null Hypothesis,PASS,0
+59,education_some_college ethnic_black,education_some_college ethnic_black Fail to reject Null Hypothesis,PASS,0
+60,education_some_college ethnic_hispanic,education_some_college ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+61,education_some_college ethnic_indian,education_some_college ethnic_indian Fail to reject Null Hypothesis,PASS,0
+62,education_some_college ethnic_jewish,education_some_college ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+63,education_some_college ethnic_white,education_some_college ethnic_white Fail to reject Null Hypothesis,PASS,0
+64,education_trade_school,education_trade_school Fail to reject Null Hypothesis,PASS,0
+65,education_trade_school ethnic_asian,education_trade_school ethnic_asian Fail to reject Null Hypothesis,PASS,0
+66,education_trade_school ethnic_black,education_trade_school ethnic_black Fail to reject Null Hypothesis,PASS,0
+67,education_trade_school ethnic_hispanic,education_trade_school ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+68,education_trade_school ethnic_indian,education_trade_school ethnic_indian Fail to reject Null Hypothesis,PASS,0
+69,education_trade_school ethnic_jewish,education_trade_school ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+70,education_trade_school ethnic_white,education_trade_school ethnic_white Fail to reject Null Hypothesis,PASS,0
+71,ethnic_asian,ethnic_asian Fail to reject Null Hypothesis,PASS,0
+72,ethnic_asian ethnic_black,ethnic_asian ethnic_black Fail to reject Null Hypothesis,PASS,0
+73,ethnic_asian ethnic_hispanic,ethnic_asian ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+74,ethnic_asian ethnic_indian,ethnic_asian ethnic_indian Fail to reject Null Hypothesis,PASS,0
+75,ethnic_asian ethnic_jewish,ethnic_asian ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+76,ethnic_asian ethnic_white,ethnic_asian ethnic_white Fail to reject Null Hypothesis,PASS,0
+77,ethnic_black,ethnic_black Fail to reject Null Hypothesis,PASS,0
+78,ethnic_black ethnic_hispanic,ethnic_black ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+79,ethnic_black ethnic_indian,ethnic_black ethnic_indian Fail to reject Null Hypothesis,PASS,0
+80,ethnic_black ethnic_jewish,ethnic_black ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+81,ethnic_black ethnic_white,ethnic_black ethnic_white Fail to reject Null Hypothesis,PASS,0
+82,ethnic_hispanic,ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+83,ethnic_hispanic ethnic_indian,ethnic_hispanic ethnic_indian Fail to reject Null Hypothesis,PASS,0
+84,ethnic_hispanic ethnic_jewish,ethnic_hispanic ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+85,ethnic_hispanic ethnic_white,ethnic_hispanic ethnic_white Fail to reject Null Hypothesis,PASS,0
+86,ethnic_indian,ethnic_indian Fail to reject Null Hypothesis,PASS,0
+87,ethnic_indian ethnic_jewish,ethnic_indian ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+88,ethnic_indian ethnic_white,ethnic_indian ethnic_white Fail to reject Null Hypothesis,PASS,0
+89,ethnic_jewish,ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+90,ethnic_jewish ethnic_white,ethnic_jewish ethnic_white Fail to reject Null Hypothesis,PASS,0
+91,ethnic_white,ethnic_white Fail to reject Null Hypothesis,PASS,0
+92,freq_voter,freq_voter Fail to reject Null Hypothesis,PASS,0
+93,freq_voter education_HS_drop_out,freq_voter education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+94,freq_voter education_bachelors,freq_voter education_bachelors Fail to reject Null Hypothesis,PASS,0
+95,freq_voter education_doctorate,freq_voter education_doctorate Fail to reject Null Hypothesis,PASS,0
+96,freq_voter education_high_school,freq_voter education_high_school Fail to reject Null Hypothesis,PASS,0
+97,freq_voter education_masters,freq_voter education_masters Fail to reject Null Hypothesis,PASS,0
+98,freq_voter education_some_college,"freq_voter education_some_college
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: -3.5159370964371144",REJECT NULL,1
+99,freq_voter education_trade_school,freq_voter education_trade_school Fail to reject Null Hypothesis,PASS,0
+100,freq_voter ethnic_asian,freq_voter ethnic_asian Fail to reject Null Hypothesis,PASS,0
+101,freq_voter ethnic_black,freq_voter ethnic_black Fail to reject Null Hypothesis,PASS,0
+102,freq_voter ethnic_hispanic,freq_voter ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+103,freq_voter ethnic_indian,freq_voter ethnic_indian Fail to reject Null Hypothesis,PASS,0
+104,freq_voter ethnic_jewish,freq_voter ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+105,freq_voter ethnic_white,freq_voter ethnic_white Fail to reject Null Hypothesis,PASS,0
+106,freq_voter home_owner_H,freq_voter home_owner_H Fail to reject Null Hypothesis,PASS,0
+107,freq_voter ismarried_Y,freq_voter ismarried_Y Fail to reject Null Hypothesis,PASS,0
+108,freq_voter party_AI,freq_voter party_AI Fail to reject Null Hypothesis,PASS,0
+109,freq_voter party_D,"freq_voter party_D
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: -5.568568023840441",REJECT NULL,1
+110,freq_voter party_DS,freq_voter party_DS Fail to reject Null Hypothesis,PASS,0
+111,freq_voter party_GR,freq_voter party_GR Fail to reject Null Hypothesis,PASS,0
+112,freq_voter party_LI,freq_voter party_LI Fail to reject Null Hypothesis,PASS,0
+113,freq_voter party_PF,freq_voter party_PF Fail to reject Null Hypothesis,PASS,0
+114,freq_voter party_R,"freq_voter party_R
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: 5.506586197416972",REJECT NULL,1
+115,freq_voter party_YY,freq_voter party_YY Fail to reject Null Hypothesis,PASS,0
+116,freq_voter renters_Y,freq_voter renters_Y Fail to reject Null Hypothesis,PASS,0
+117,freq_voter sex_M,freq_voter sex_M Fail to reject Null Hypothesis,PASS,0
+118,freq_voter voted_03_05_2013,freq_voter voted_03_05_2013 Fail to reject Null Hypothesis,PASS,0
+119,freq_voter voted_05_21_2013,freq_voter voted_05_21_2013 Fail to reject Null Hypothesis,PASS,0
+120,freq_voter voted_06_07_2016,freq_voter voted_06_07_2016 Fail to reject Null Hypothesis,PASS,0
+121,hhcount,hhcount Fail to reject Null Hypothesis,PASS,0
+122,home_owner_H,home_owner_H Fail to reject Null Hypothesis,PASS,0
+123,home_owner_H education_HS_drop_out,home_owner_H education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+124,home_owner_H education_bachelors,home_owner_H education_bachelors Fail to reject Null Hypothesis,PASS,0
+125,home_owner_H education_doctorate,"home_owner_H education_doctorate
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: 4.4652958369579485",REJECT NULL,1
+126,home_owner_H education_high_school,home_owner_H education_high_school Fail to reject Null Hypothesis,PASS,0
+127,home_owner_H education_masters,home_owner_H education_masters Fail to reject Null Hypothesis,PASS,0
+128,home_owner_H education_some_college,home_owner_H education_some_college Fail to reject Null Hypothesis,PASS,0
+129,home_owner_H education_trade_school,home_owner_H education_trade_school Fail to reject Null Hypothesis,PASS,0
+130,home_owner_H ethnic_asian,home_owner_H ethnic_asian Fail to reject Null Hypothesis,PASS,0
+131,home_owner_H ethnic_black,home_owner_H ethnic_black Fail to reject Null Hypothesis,PASS,0
+132,home_owner_H ethnic_hispanic,home_owner_H ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+133,home_owner_H ethnic_indian,home_owner_H ethnic_indian Fail to reject Null Hypothesis,PASS,0
+134,home_owner_H ethnic_jewish,home_owner_H ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+135,home_owner_H ethnic_white,home_owner_H ethnic_white Fail to reject Null Hypothesis,PASS,0
+136,home_owner_H ismarried_Y,home_owner_H ismarried_Y Fail to reject Null Hypothesis,PASS,0
+137,home_owner_H renters_Y,home_owner_H renters_Y Fail to reject Null Hypothesis,PASS,0
+138,home_owner_H sex_M,home_owner_H sex_M Fail to reject Null Hypothesis,PASS,0
+139,ismarried_Y,ismarried_Y Fail to reject Null Hypothesis,PASS,0
+140,ismarried_Y education_HS_drop_out,ismarried_Y education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+141,ismarried_Y education_bachelors,ismarried_Y education_bachelors Fail to reject Null Hypothesis,PASS,0
+142,ismarried_Y education_doctorate,ismarried_Y education_doctorate Fail to reject Null Hypothesis,PASS,0
+143,ismarried_Y education_high_school,ismarried_Y education_high_school Fail to reject Null Hypothesis,PASS,0
+144,ismarried_Y education_masters,ismarried_Y education_masters Fail to reject Null Hypothesis,PASS,0
+145,ismarried_Y education_some_college,ismarried_Y education_some_college Fail to reject Null Hypothesis,PASS,0
+146,ismarried_Y education_trade_school,ismarried_Y education_trade_school Fail to reject Null Hypothesis,PASS,0
+147,ismarried_Y ethnic_asian,ismarried_Y ethnic_asian Fail to reject Null Hypothesis,PASS,0
+148,ismarried_Y ethnic_black,ismarried_Y ethnic_black Fail to reject Null Hypothesis,PASS,0
+149,ismarried_Y ethnic_hispanic,ismarried_Y ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+150,ismarried_Y ethnic_indian,ismarried_Y ethnic_indian Fail to reject Null Hypothesis,PASS,0
+151,ismarried_Y ethnic_jewish,ismarried_Y ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+152,ismarried_Y ethnic_white,ismarried_Y ethnic_white Fail to reject Null Hypothesis,PASS,0
+153,party_AI,party_AI Fail to reject Null Hypothesis,PASS,0
+154,party_AI education_HS_drop_out,party_AI education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+155,party_AI education_bachelors,party_AI education_bachelors Fail to reject Null Hypothesis,PASS,0
+156,party_AI education_doctorate,party_AI education_doctorate Fail to reject Null Hypothesis,PASS,0
+157,party_AI education_high_school,party_AI education_high_school Fail to reject Null Hypothesis,PASS,0
+158,party_AI education_masters,party_AI education_masters Fail to reject Null Hypothesis,PASS,0
+159,party_AI education_some_college,party_AI education_some_college Fail to reject Null Hypothesis,PASS,0
+160,party_AI education_trade_school,party_AI education_trade_school Fail to reject Null Hypothesis,PASS,0
+161,party_AI ethnic_asian,party_AI ethnic_asian Fail to reject Null Hypothesis,PASS,0
+162,party_AI ethnic_black,party_AI ethnic_black Fail to reject Null Hypothesis,PASS,0
+163,party_AI ethnic_hispanic,party_AI ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+164,party_AI ethnic_indian,party_AI ethnic_indian Fail to reject Null Hypothesis,PASS,0
+165,party_AI ethnic_jewish,party_AI ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+166,party_AI ethnic_white,party_AI ethnic_white Fail to reject Null Hypothesis,PASS,0
+167,party_AI home_owner_H,party_AI home_owner_H Fail to reject Null Hypothesis,PASS,0
+168,party_AI ismarried_Y,party_AI ismarried_Y Fail to reject Null Hypothesis,PASS,0
+169,party_AI party_D,party_AI party_D Fail to reject Null Hypothesis,PASS,0
+170,party_AI party_DS,party_AI party_DS Fail to reject Null Hypothesis,PASS,0
+171,party_AI party_GR,party_AI party_GR Fail to reject Null Hypothesis,PASS,0
+172,party_AI party_LI,party_AI party_LI Fail to reject Null Hypothesis,PASS,0
+173,party_AI party_PF,party_AI party_PF Fail to reject Null Hypothesis,PASS,0
+174,party_AI party_R,party_AI party_R Fail to reject Null Hypothesis,PASS,0
+175,party_AI party_YY,party_AI party_YY Fail to reject Null Hypothesis,PASS,0
+176,party_AI renters_Y,party_AI renters_Y Fail to reject Null Hypothesis,PASS,0
+177,party_AI sex_M,party_AI sex_M Fail to reject Null Hypothesis,PASS,0
+178,party_D,"party_D
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: -6.408331137615989",REJECT NULL,1
+179,party_D education_HS_drop_out,party_D education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+180,party_D education_bachelors,party_D education_bachelors Fail to reject Null Hypothesis,PASS,0
+181,party_D education_doctorate,party_D education_doctorate Fail to reject Null Hypothesis,PASS,0
+182,party_D education_high_school,party_D education_high_school Fail to reject Null Hypothesis,PASS,0
+183,party_D education_masters,party_D education_masters Fail to reject Null Hypothesis,PASS,0
+184,party_D education_some_college,"party_D education_some_college
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: -4.236074509571358",REJECT NULL,1
+185,party_D education_trade_school,party_D education_trade_school Fail to reject Null Hypothesis,PASS,0
+186,party_D ethnic_asian,party_D ethnic_asian Fail to reject Null Hypothesis,PASS,0
+187,party_D ethnic_black,party_D ethnic_black Fail to reject Null Hypothesis,PASS,0
+188,party_D ethnic_hispanic,party_D ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+189,party_D ethnic_indian,party_D ethnic_indian Fail to reject Null Hypothesis,PASS,0
+190,party_D ethnic_jewish,party_D ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+191,party_D ethnic_white,"party_D ethnic_whiteReject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.002708 and Z score: -3.456279726717153",REJECT NULL,1
+192,party_D home_owner_H,party_D home_owner_H Fail to reject Null Hypothesis,PASS,0
+193,party_D ismarried_Y,party_D ismarried_Y Fail to reject Null Hypothesis,PASS,0
+194,party_D party_DS,party_D party_DS Fail to reject Null Hypothesis,PASS,0
+195,party_D party_GR,party_D party_GR Fail to reject Null Hypothesis,PASS,0
+196,party_D party_LI,party_D party_LI Fail to reject Null Hypothesis,PASS,0
+197,party_D party_PF,party_D party_PF Fail to reject Null Hypothesis,PASS,0
+198,party_D party_R,party_D party_R Fail to reject Null Hypothesis,PASS,0
+199,party_D party_YY,party_D party_YY Fail to reject Null Hypothesis,PASS,0
+200,party_D renters_Y,"party_D renters_YReject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.003657 and Z score: -3.44136368976872",REJECT NULL,1
+201,party_D sex_M,party_D sex_M Fail to reject Null Hypothesis,PASS,0
+202,party_DS,party_DS Fail to reject Null Hypothesis,PASS,0
+203,party_DS education_HS_drop_out,party_DS education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+204,party_DS education_bachelors,party_DS education_bachelors Fail to reject Null Hypothesis,PASS,0
+205,party_DS education_doctorate,party_DS education_doctorate Fail to reject Null Hypothesis,PASS,0
+206,party_DS education_high_school,party_DS education_high_school Fail to reject Null Hypothesis,PASS,0
+207,party_DS education_masters,party_DS education_masters Fail to reject Null Hypothesis,PASS,0
+208,party_DS education_some_college,party_DS education_some_college Fail to reject Null Hypothesis,PASS,0
+209,party_DS education_trade_school,party_DS education_trade_school Fail to reject Null Hypothesis,PASS,0
+210,party_DS ethnic_asian,party_DS ethnic_asian Fail to reject Null Hypothesis,PASS,0
+211,party_DS ethnic_black,party_DS ethnic_black Fail to reject Null Hypothesis,PASS,0
+212,party_DS ethnic_hispanic,party_DS ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+213,party_DS ethnic_indian,party_DS ethnic_indian Fail to reject Null Hypothesis,PASS,0
+214,party_DS ethnic_jewish,party_DS ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+215,party_DS ethnic_white,party_DS ethnic_white Fail to reject Null Hypothesis,PASS,0
+216,party_DS home_owner_H,party_DS home_owner_H Fail to reject Null Hypothesis,PASS,0
+217,party_DS ismarried_Y,party_DS ismarried_Y Fail to reject Null Hypothesis,PASS,0
+218,party_DS party_GR,party_DS party_GR Fail to reject Null Hypothesis,PASS,0
+219,party_DS party_LI,party_DS party_LI Fail to reject Null Hypothesis,PASS,0
+220,party_DS party_PF,party_DS party_PF Fail to reject Null Hypothesis,PASS,0
+221,party_DS party_R,party_DS party_R Fail to reject Null Hypothesis,PASS,0
+222,party_DS party_YY,party_DS party_YY Fail to reject Null Hypothesis,PASS,0
+223,party_DS renters_Y,party_DS renters_Y Fail to reject Null Hypothesis,PASS,0
+224,party_DS sex_M,party_DS sex_M Fail to reject Null Hypothesis,PASS,0
+225,party_GR,party_GR Fail to reject Null Hypothesis,PASS,0
+226,party_GR education_HS_drop_out,party_GR education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+227,party_GR education_bachelors,party_GR education_bachelors Fail to reject Null Hypothesis,PASS,0
+228,party_GR education_doctorate,party_GR education_doctorate Fail to reject Null Hypothesis,PASS,0
+229,party_GR education_high_school,party_GR education_high_school Fail to reject Null Hypothesis,PASS,0
+230,party_GR education_masters,party_GR education_masters Fail to reject Null Hypothesis,PASS,0
+231,party_GR education_some_college,party_GR education_some_college Fail to reject Null Hypothesis,PASS,0
+232,party_GR education_trade_school,party_GR education_trade_school Fail to reject Null Hypothesis,PASS,0
+233,party_GR ethnic_asian,party_GR ethnic_asian Fail to reject Null Hypothesis,PASS,0
+234,party_GR ethnic_black,party_GR ethnic_black Fail to reject Null Hypothesis,PASS,0
+235,party_GR ethnic_hispanic,party_GR ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+236,party_GR ethnic_indian,party_GR ethnic_indian Fail to reject Null Hypothesis,PASS,0
+237,party_GR ethnic_jewish,party_GR ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+238,party_GR ethnic_white,party_GR ethnic_white Fail to reject Null Hypothesis,PASS,0
+239,party_GR home_owner_H,party_GR home_owner_H Fail to reject Null Hypothesis,PASS,0
+240,party_GR ismarried_Y,party_GR ismarried_Y Fail to reject Null Hypothesis,PASS,0
+241,party_GR party_LI,party_GR party_LI Fail to reject Null Hypothesis,PASS,0
+242,party_GR party_PF,party_GR party_PF Fail to reject Null Hypothesis,PASS,0
+243,party_GR party_R,party_GR party_R Fail to reject Null Hypothesis,PASS,0
+244,party_GR party_YY,party_GR party_YY Fail to reject Null Hypothesis,PASS,0
+245,party_GR renters_Y,party_GR renters_Y Fail to reject Null Hypothesis,PASS,0
+246,party_GR sex_M,party_GR sex_M Fail to reject Null Hypothesis,PASS,0
+247,party_LI,party_LI Fail to reject Null Hypothesis,PASS,0
+248,party_LI education_HS_drop_out,party_LI education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+249,party_LI education_bachelors,party_LI education_bachelors Fail to reject Null Hypothesis,PASS,0
+250,party_LI education_doctorate,party_LI education_doctorate Fail to reject Null Hypothesis,PASS,0
+251,party_LI education_high_school,party_LI education_high_school Fail to reject Null Hypothesis,PASS,0
+252,party_LI education_masters,party_LI education_masters Fail to reject Null Hypothesis,PASS,0
+253,party_LI education_some_college,party_LI education_some_college Fail to reject Null Hypothesis,PASS,0
+254,party_LI education_trade_school,party_LI education_trade_school Fail to reject Null Hypothesis,PASS,0
+255,party_LI ethnic_asian,party_LI ethnic_asian Fail to reject Null Hypothesis,PASS,0
+256,party_LI ethnic_black,party_LI ethnic_black Fail to reject Null Hypothesis,PASS,0
+257,party_LI ethnic_hispanic,party_LI ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+258,party_LI ethnic_indian,party_LI ethnic_indian Fail to reject Null Hypothesis,PASS,0
+259,party_LI ethnic_jewish,party_LI ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+260,party_LI ethnic_white,party_LI ethnic_white Fail to reject Null Hypothesis,PASS,0
+261,party_LI home_owner_H,party_LI home_owner_H Fail to reject Null Hypothesis,PASS,0
+262,party_LI ismarried_Y,party_LI ismarried_Y Fail to reject Null Hypothesis,PASS,0
+263,party_LI party_PF,party_LI party_PF Fail to reject Null Hypothesis,PASS,0
+264,party_LI party_R,party_LI party_R Fail to reject Null Hypothesis,PASS,0
+265,party_LI party_YY,party_LI party_YY Fail to reject Null Hypothesis,PASS,0
+266,party_LI renters_Y,party_LI renters_Y Fail to reject Null Hypothesis,PASS,0
+267,party_LI sex_M,party_LI sex_M Fail to reject Null Hypothesis,PASS,0
+268,party_PF,party_PF Fail to reject Null Hypothesis,PASS,0
+269,party_PF education_HS_drop_out,party_PF education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+270,party_PF education_bachelors,party_PF education_bachelors Fail to reject Null Hypothesis,PASS,0
+271,party_PF education_doctorate,party_PF education_doctorate Fail to reject Null Hypothesis,PASS,0
+272,party_PF education_high_school,party_PF education_high_school Fail to reject Null Hypothesis,PASS,0
+273,party_PF education_masters,party_PF education_masters Fail to reject Null Hypothesis,PASS,0
+274,party_PF education_some_college,party_PF education_some_college Fail to reject Null Hypothesis,PASS,0
+275,party_PF education_trade_school,party_PF education_trade_school Fail to reject Null Hypothesis,PASS,0
+276,party_PF ethnic_asian,party_PF ethnic_asian Fail to reject Null Hypothesis,PASS,0
+277,party_PF ethnic_black,party_PF ethnic_black Fail to reject Null Hypothesis,PASS,0
+278,party_PF ethnic_hispanic,party_PF ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+279,party_PF ethnic_indian,party_PF ethnic_indian Fail to reject Null Hypothesis,PASS,0
+280,party_PF ethnic_jewish,party_PF ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+281,party_PF ethnic_white,party_PF ethnic_white Fail to reject Null Hypothesis,PASS,0
+282,party_PF home_owner_H,party_PF home_owner_H Fail to reject Null Hypothesis,PASS,0
+283,party_PF ismarried_Y,party_PF ismarried_Y Fail to reject Null Hypothesis,PASS,0
+284,party_PF party_R,party_PF party_R Fail to reject Null Hypothesis,PASS,0
+285,party_PF party_YY,party_PF party_YY Fail to reject Null Hypothesis,PASS,0
+286,party_PF renters_Y,party_PF renters_Y Fail to reject Null Hypothesis,PASS,0
+287,party_PF sex_M,party_PF sex_M Fail to reject Null Hypothesis,PASS,0
+288,party_R,"party_R
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: 5.851857801098726",REJECT NULL,1
+289,party_R education_HS_drop_out,party_R education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+290,party_R education_bachelors,party_R education_bachelors Fail to reject Null Hypothesis,PASS,0
+291,party_R education_doctorate,"party_R education_doctorate
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: 4.209088643029793",REJECT NULL,1
+292,party_R education_high_school,party_R education_high_school Fail to reject Null Hypothesis,PASS,0
+293,party_R education_masters,party_R education_masters Fail to reject Null Hypothesis,PASS,0
+294,party_R education_some_college,party_R education_some_college Fail to reject Null Hypothesis,PASS,0
+295,party_R education_trade_school,party_R education_trade_school Fail to reject Null Hypothesis,PASS,0
+296,party_R ethnic_asian,party_R ethnic_asian Fail to reject Null Hypothesis,PASS,0
+297,party_R ethnic_black,party_R ethnic_black Fail to reject Null Hypothesis,PASS,0
+298,party_R ethnic_hispanic,party_R ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+299,party_R ethnic_indian,party_R ethnic_indian Fail to reject Null Hypothesis,PASS,0
+300,party_R ethnic_jewish,party_R ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+301,party_R ethnic_white,party_R ethnic_white Fail to reject Null Hypothesis,PASS,0
+302,party_R home_owner_H,"party_R home_owner_H
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: 5.772661739194654",REJECT NULL,1
+303,party_R ismarried_Y,"party_R ismarried_Y
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: 3.385710930632193",REJECT NULL,1
+304,party_R party_YY,party_R party_YY Fail to reject Null Hypothesis,PASS,0
+305,party_R renters_Y,party_R renters_Y Fail to reject Null Hypothesis,PASS,0
+306,party_R sex_M,"party_R sex_MReject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.004259 and Z score: 3.7149196252186196",REJECT NULL,1
+307,party_YY,party_YY Fail to reject Null Hypothesis,PASS,0
+308,party_YY education_HS_drop_out,party_YY education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+309,party_YY education_bachelors,party_YY education_bachelors Fail to reject Null Hypothesis,PASS,0
+310,party_YY education_doctorate,party_YY education_doctorate Fail to reject Null Hypothesis,PASS,0
+311,party_YY education_high_school,party_YY education_high_school Fail to reject Null Hypothesis,PASS,0
+312,party_YY education_masters,party_YY education_masters Fail to reject Null Hypothesis,PASS,0
+313,party_YY education_some_college,party_YY education_some_college Fail to reject Null Hypothesis,PASS,0
+314,party_YY education_trade_school,party_YY education_trade_school Fail to reject Null Hypothesis,PASS,0
+315,party_YY ethnic_asian,party_YY ethnic_asian Fail to reject Null Hypothesis,PASS,0
+316,party_YY ethnic_black,party_YY ethnic_black Fail to reject Null Hypothesis,PASS,0
+317,party_YY ethnic_hispanic,party_YY ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+318,party_YY ethnic_indian,party_YY ethnic_indian Fail to reject Null Hypothesis,PASS,0
+319,party_YY ethnic_jewish,party_YY ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+320,party_YY ethnic_white,party_YY ethnic_white Fail to reject Null Hypothesis,PASS,0
+321,party_YY home_owner_H,party_YY home_owner_H Fail to reject Null Hypothesis,PASS,0
+322,party_YY ismarried_Y,party_YY ismarried_Y Fail to reject Null Hypothesis,PASS,0
+323,party_YY renters_Y,party_YY renters_Y Fail to reject Null Hypothesis,PASS,0
+324,party_YY sex_M,party_YY sex_M Fail to reject Null Hypothesis,PASS,0
+325,renters_Y,renters_Y Fail to reject Null Hypothesis,PASS,0
+326,renters_Y education_HS_drop_out,renters_Y education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+327,renters_Y education_bachelors,renters_Y education_bachelors Fail to reject Null Hypothesis,PASS,0
+328,renters_Y education_doctorate,renters_Y education_doctorate Fail to reject Null Hypothesis,PASS,0
+329,renters_Y education_high_school,renters_Y education_high_school Fail to reject Null Hypothesis,PASS,0
+330,renters_Y education_masters,renters_Y education_masters Fail to reject Null Hypothesis,PASS,0
+331,renters_Y education_some_college,renters_Y education_some_college Fail to reject Null Hypothesis,PASS,0
+332,renters_Y education_trade_school,renters_Y education_trade_school Fail to reject Null Hypothesis,PASS,0
+333,renters_Y ethnic_asian,renters_Y ethnic_asian Fail to reject Null Hypothesis,PASS,0
+334,renters_Y ethnic_black,renters_Y ethnic_black Fail to reject Null Hypothesis,PASS,0
+335,renters_Y ethnic_hispanic,renters_Y ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+336,renters_Y ethnic_indian,renters_Y ethnic_indian Fail to reject Null Hypothesis,PASS,0
+337,renters_Y ethnic_jewish,renters_Y ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+338,renters_Y ethnic_white,renters_Y ethnic_white Fail to reject Null Hypothesis,PASS,0
+339,renters_Y ismarried_Y,renters_Y ismarried_Y Fail to reject Null Hypothesis,PASS,0
+340,sex_M,sex_M Fail to reject Null Hypothesis,PASS,0
+341,sex_M education_HS_drop_out,sex_M education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+342,sex_M education_bachelors,sex_M education_bachelors Fail to reject Null Hypothesis,PASS,0
+343,sex_M education_doctorate,sex_M education_doctorate Fail to reject Null Hypothesis,PASS,0
+344,sex_M education_high_school,sex_M education_high_school Fail to reject Null Hypothesis,PASS,0
+345,sex_M education_masters,sex_M education_masters Fail to reject Null Hypothesis,PASS,0
+346,sex_M education_some_college,sex_M education_some_college Fail to reject Null Hypothesis,PASS,0
+347,sex_M education_trade_school,sex_M education_trade_school Fail to reject Null Hypothesis,PASS,0
+348,sex_M ethnic_asian,sex_M ethnic_asian Fail to reject Null Hypothesis,PASS,0
+349,sex_M ethnic_black,sex_M ethnic_black Fail to reject Null Hypothesis,PASS,0
+350,sex_M ethnic_hispanic,sex_M ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+351,sex_M ethnic_indian,sex_M ethnic_indian Fail to reject Null Hypothesis,PASS,0
+352,sex_M ethnic_jewish,sex_M ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+353,sex_M ethnic_white,sex_M ethnic_white Fail to reject Null Hypothesis,PASS,0
+354,sex_M ismarried_Y,sex_M ismarried_Y Fail to reject Null Hypothesis,PASS,0
+355,sex_M renters_Y,sex_M renters_Y Fail to reject Null Hypothesis,PASS,0
+356,voted_03_05_2013,voted_03_05_2013 Fail to reject Null Hypothesis,PASS,0
+357,voted_03_05_2013 education_HS_drop_out,voted_03_05_2013 education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+358,voted_03_05_2013 education_bachelors,"voted_03_05_2013 education_bachelors
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: -4.20475348895292",REJECT NULL,1
+359,voted_03_05_2013 education_doctorate,voted_03_05_2013 education_doctorate Fail to reject Null Hypothesis,PASS,0
+360,voted_03_05_2013 education_high_school,voted_03_05_2013 education_high_school Fail to reject Null Hypothesis,PASS,0
+361,voted_03_05_2013 education_masters,voted_03_05_2013 education_masters Fail to reject Null Hypothesis,PASS,0
+362,voted_03_05_2013 education_some_college,voted_03_05_2013 education_some_college Fail to reject Null Hypothesis,PASS,0
+363,voted_03_05_2013 education_trade_school,voted_03_05_2013 education_trade_school Fail to reject Null Hypothesis,PASS,0
+364,voted_03_05_2013 ethnic_asian,voted_03_05_2013 ethnic_asian Fail to reject Null Hypothesis,PASS,0
+365,voted_03_05_2013 ethnic_black,voted_03_05_2013 ethnic_black Fail to reject Null Hypothesis,PASS,0
+366,voted_03_05_2013 ethnic_hispanic,voted_03_05_2013 ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+367,voted_03_05_2013 ethnic_indian,voted_03_05_2013 ethnic_indian Fail to reject Null Hypothesis,PASS,0
+368,voted_03_05_2013 ethnic_jewish,voted_03_05_2013 ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+369,voted_03_05_2013 ethnic_white,voted_03_05_2013 ethnic_white Fail to reject Null Hypothesis,PASS,0
+370,voted_03_05_2013 home_owner_H,voted_03_05_2013 home_owner_H Fail to reject Null Hypothesis,PASS,0
+371,voted_03_05_2013 ismarried_Y,voted_03_05_2013 ismarried_Y Fail to reject Null Hypothesis,PASS,0
+372,voted_03_05_2013 party_AI,voted_03_05_2013 party_AI Fail to reject Null Hypothesis,PASS,0
+373,voted_03_05_2013 party_D,"voted_03_05_2013 party_D
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: -6.148753997454935",REJECT NULL,1
+374,voted_03_05_2013 party_DS,voted_03_05_2013 party_DS Fail to reject Null Hypothesis,PASS,0
+375,voted_03_05_2013 party_GR,voted_03_05_2013 party_GR Fail to reject Null Hypothesis,PASS,0
+376,voted_03_05_2013 party_LI,voted_03_05_2013 party_LI Fail to reject Null Hypothesis,PASS,0
+377,voted_03_05_2013 party_PF,voted_03_05_2013 party_PF Fail to reject Null Hypothesis,PASS,0
+378,voted_03_05_2013 party_R,"voted_03_05_2013 party_R
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: 5.133910416626873",REJECT NULL,1
+379,voted_03_05_2013 party_YY,voted_03_05_2013 party_YY Fail to reject Null Hypothesis,PASS,0
+380,voted_03_05_2013 renters_Y,voted_03_05_2013 renters_Y Fail to reject Null Hypothesis,PASS,0
+381,voted_03_05_2013 sex_M,voted_03_05_2013 sex_M Fail to reject Null Hypothesis,PASS,0
+382,voted_03_05_2013 voted_05_21_2013,voted_03_05_2013 voted_05_21_2013 Fail to reject Null Hypothesis,PASS,0
+383,voted_03_05_2013 voted_06_07_2016,voted_03_05_2013 voted_06_07_2016 Fail to reject Null Hypothesis,PASS,0
+384,voted_05_21_2013,voted_05_21_2013 Fail to reject Null Hypothesis,PASS,0
+385,voted_05_21_2013 education_HS_drop_out,voted_05_21_2013 education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+386,voted_05_21_2013 education_bachelors,voted_05_21_2013 education_bachelors Fail to reject Null Hypothesis,PASS,0
+387,voted_05_21_2013 education_doctorate,"voted_05_21_2013 education_doctorate
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: 3.4703081720460514",REJECT NULL,1
+388,voted_05_21_2013 education_high_school,voted_05_21_2013 education_high_school Fail to reject Null Hypothesis,PASS,0
+389,voted_05_21_2013 education_masters,voted_05_21_2013 education_masters Fail to reject Null Hypothesis,PASS,0
+390,voted_05_21_2013 education_some_college,voted_05_21_2013 education_some_college Fail to reject Null Hypothesis,PASS,0
+391,voted_05_21_2013 education_trade_school,voted_05_21_2013 education_trade_school Fail to reject Null Hypothesis,PASS,0
+392,voted_05_21_2013 ethnic_asian,voted_05_21_2013 ethnic_asian Fail to reject Null Hypothesis,PASS,0
+393,voted_05_21_2013 ethnic_black,voted_05_21_2013 ethnic_black Fail to reject Null Hypothesis,PASS,0
+394,voted_05_21_2013 ethnic_hispanic,voted_05_21_2013 ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+395,voted_05_21_2013 ethnic_indian,voted_05_21_2013 ethnic_indian Fail to reject Null Hypothesis,PASS,0
+396,voted_05_21_2013 ethnic_jewish,voted_05_21_2013 ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+397,voted_05_21_2013 ethnic_white,voted_05_21_2013 ethnic_white Fail to reject Null Hypothesis,PASS,0
+398,voted_05_21_2013 home_owner_H,voted_05_21_2013 home_owner_H Fail to reject Null Hypothesis,PASS,0
+399,voted_05_21_2013 ismarried_Y,voted_05_21_2013 ismarried_Y Fail to reject Null Hypothesis,PASS,0
+400,voted_05_21_2013 party_AI,voted_05_21_2013 party_AI Fail to reject Null Hypothesis,PASS,0
+401,voted_05_21_2013 party_D,"voted_05_21_2013 party_D
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: -5.0714719802855095",REJECT NULL,1
+402,voted_05_21_2013 party_DS,voted_05_21_2013 party_DS Fail to reject Null Hypothesis,PASS,0
+403,voted_05_21_2013 party_GR,voted_05_21_2013 party_GR Fail to reject Null Hypothesis,PASS,0
+404,voted_05_21_2013 party_LI,voted_05_21_2013 party_LI Fail to reject Null Hypothesis,PASS,0
+405,voted_05_21_2013 party_PF,voted_05_21_2013 party_PF Fail to reject Null Hypothesis,PASS,0
+406,voted_05_21_2013 party_R,"voted_05_21_2013 party_R
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: 4.799105776291061",REJECT NULL,1
+407,voted_05_21_2013 party_YY,voted_05_21_2013 party_YY Fail to reject Null Hypothesis,PASS,0
+408,voted_05_21_2013 renters_Y,voted_05_21_2013 renters_Y Fail to reject Null Hypothesis,PASS,0
+409,voted_05_21_2013 sex_M,voted_05_21_2013 sex_M Fail to reject Null Hypothesis,PASS,0
+410,voted_05_21_2013 voted_06_07_2016,voted_05_21_2013 voted_06_07_2016 Fail to reject Null Hypothesis,PASS,0
+411,voted_06_07_2016,voted_06_07_2016 Fail to reject Null Hypothesis,PASS,0
+412,voted_06_07_2016 education_HS_drop_out,voted_06_07_2016 education_HS_drop_out Fail to reject Null Hypothesis,PASS,0
+413,voted_06_07_2016 education_bachelors,voted_06_07_2016 education_bachelors Fail to reject Null Hypothesis,PASS,0
+414,voted_06_07_2016 education_doctorate,voted_06_07_2016 education_doctorate Fail to reject Null Hypothesis,PASS,0
+415,voted_06_07_2016 education_high_school,voted_06_07_2016 education_high_school Fail to reject Null Hypothesis,PASS,0
+416,voted_06_07_2016 education_masters,voted_06_07_2016 education_masters Fail to reject Null Hypothesis,PASS,0
+417,voted_06_07_2016 education_some_college,voted_06_07_2016 education_some_college Fail to reject Null Hypothesis,PASS,0
+418,voted_06_07_2016 education_trade_school,voted_06_07_2016 education_trade_school Fail to reject Null Hypothesis,PASS,0
+419,voted_06_07_2016 ethnic_asian,voted_06_07_2016 ethnic_asian Fail to reject Null Hypothesis,PASS,0
+420,voted_06_07_2016 ethnic_black,voted_06_07_2016 ethnic_black Fail to reject Null Hypothesis,PASS,0
+421,voted_06_07_2016 ethnic_hispanic,voted_06_07_2016 ethnic_hispanic Fail to reject Null Hypothesis,PASS,0
+422,voted_06_07_2016 ethnic_indian,voted_06_07_2016 ethnic_indian Fail to reject Null Hypothesis,PASS,0
+423,voted_06_07_2016 ethnic_jewish,voted_06_07_2016 ethnic_jewish Fail to reject Null Hypothesis,PASS,0
+424,voted_06_07_2016 ethnic_white,voted_06_07_2016 ethnic_white Fail to reject Null Hypothesis,PASS,0
+425,voted_06_07_2016 home_owner_H,voted_06_07_2016 home_owner_H Fail to reject Null Hypothesis,PASS,0
+426,voted_06_07_2016 ismarried_Y,voted_06_07_2016 ismarried_Y Fail to reject Null Hypothesis,PASS,0
+427,voted_06_07_2016 party_AI,voted_06_07_2016 party_AI Fail to reject Null Hypothesis,PASS,0
+428,voted_06_07_2016 party_D,"voted_06_07_2016 party_D
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: -5.115993932528102",REJECT NULL,1
+429,voted_06_07_2016 party_DS,voted_06_07_2016 party_DS Fail to reject Null Hypothesis,PASS,0
+430,voted_06_07_2016 party_GR,voted_06_07_2016 party_GR Fail to reject Null Hypothesis,PASS,0
+431,voted_06_07_2016 party_LI,voted_06_07_2016 party_LI Fail to reject Null Hypothesis,PASS,0
+432,voted_06_07_2016 party_PF,voted_06_07_2016 party_PF Fail to reject Null Hypothesis,PASS,0
+433,voted_06_07_2016 party_R,"voted_06_07_2016 party_R
+Reject Null Hypothesis that both converters and non_converters 
+ have the same distribution, with p < 0.005 and Z score: 5.597015680587811",REJECT NULL,1
+434,voted_06_07_2016 party_YY,voted_06_07_2016 party_YY Fail to reject Null Hypothesis,PASS,0
+435,voted_06_07_2016 renters_Y,voted_06_07_2016 renters_Y Fail to reject Null Hypothesis,PASS,0
+436,voted_06_07_2016 sex_M,voted_06_07_2016 sex_M Fail to reject Null Hypothesis,PASS,0

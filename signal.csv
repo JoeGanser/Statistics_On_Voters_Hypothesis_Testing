@@ -1,0 +1,23 @@
+,Feature,Favoring,For_A_Count,Against_A_Count,Difference
+0,age,Against,42972.0,48199.0,-5227.0
+1,education_some_college,Against,131.0,209.0,-78.0
+2,voted_05_21_2013 party_D,Against,233.0,346.0,-113.0
+3,freq_voter education_some_college,Against,102.0,162.0,-60.0
+4,freq_voter party_D,Against,344.0,476.0,-132.0
+5,voted_03_05_2013 party_D,Against,221.0,353.0,-132.0
+6,party_D,Against,454.0,602.0,-148.0
+7,party_D education_some_college,Against,131.0,209.0,-78.0
+8,voted_06_07_2016 party_D,Against,394.0,519.0,-125.0
+9,voted_03_05_2013 education_bachelors,Against,100.0,170.0,-70.0
+10,voted_05_21_2013 party_R,For,110.0,55.0,55.0
+11,voted_03_05_2013 party_R,For,128.0,65.0,63.0
+12,party_R sex_M,For,93.0,53.0,40.0
+13,party_R,For,179.0,97.0,82.0
+14,party_R ethnic_white,For,82.0,48.0,34.0
+15,party_R education_doctorate,For,61.0,25.0,36.0
+16,home_owner_H education_doctorate,For,52.0,17.0,35.0
+17,freq_voter party_R,For,161.0,87.0,74.0
+18,freq_voter education_doctorate,For,55.0,25.0,30.0
+19,education_doctorate,For,61.0,25.0,36.0
+20,party_R home_owner_H,For,127.0,57.0,70.0
+21,voted_06_07_2016 party_R,For,145.0,74.0,71.0
